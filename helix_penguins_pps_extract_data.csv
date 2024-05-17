@@ -1,0 +1,50 @@
+﻿period,price,contract,productname,symbol,description
+5/6/2024,665,5/1/2024 0:00,LDF.cargoes.cif.NWE1,LDF.CAR.CIF1,LDF - NWE - LDF - cif cargoes
+5/6/2024,647,5/1/2024 0:00,LDF.cargoes.cif.NWE2,LDF.CAR.CIF2,LDF - NWE - LDF - cif cargoes
+5/6/2024,638,5/1/2024 0:00,LDF.cargoes.cif.NWE3,LDF.CAR.CIF3,LDF - NWE - LDF - cif cargoes
+5/6/2024,632,5/1/2024 0:00,LDF.cargoes.cif.NWE4,LDF.CAR.CIF4,LDF - NWE - LDF - cif cargoes
+5/6/2024,690,5/1/2024 0:00,LDF.cargoes.cif.NWE5,LDF.GRACIFROTHI1,NAPHTHA - NWE - LDF - Grangemouth cif Rotts (high)
+5/6/2024,672,5/1/2024 0:00,LDF.cargoes.cif.NWE6,LDF.GRACIFROTHI2,NAPHTHA - NWE - LDF - Grangemouth cif Rotts (high)
+5/6/2024,663,5/1/2024 0:00,LDF.cargoes.cif.NWE7,LDF.GRACIFROTHI3,NAPHTHA - NWE - LDF - Grangemouth cif Rotts (high)
+5/6/2024,657,5/1/2024 0:00,LDF.cargoes.cif.NWE8,LDF.GRACIFROTHI4,NAPHTHA - NWE - LDF - Grangemouth cif Rotts (high)
+5/6/2024,675,5/1/2024 0:00,LDF.cargoes.fob.Grangemouth1,LDF.FOB.NWE1,Distillates - NWE - LDF - fob Grangemouth
+5/6/2024,657,5/1/2024 0:00,LDF.cargoes.fob.Grangemouth2,LDF.FOB.NWE2,Distillates - NWE - LDF - fob Grangemouth
+5/6/2024,648,5/1/2024 0:00,LDF.cargoes.fob.Grangemouth3,LDF.FOB.NWE3,Distillates - NWE - LDF - fob Grangemouth
+5/6/2024,642,5/1/2024 0:00,LDF.cargoes.fob.Grangemouth4,LDF.FOB.NWE4,Distillates - NWE - LDF - fob Grangemouth
+5/6/2024,685,5/1/2024 0:00,LDF.c5 plus.cargoes.cif.NWE1,LDF.GRACCIFROT1,NAPHTHA - NWE - LDF - Grangemouth C5+ cif Rotts
+5/6/2024,667,5/1/2024 0:00,LDF.c5 plus.cargoes.cif.NWE2,LDF.GRACCIFROT2,NAPHTHA - NWE - LDF - Grangemouth C5+ cif Rotts
+5/6/2024,658,5/1/2024 0:00,LDF.c5 plus.cargoes.cif.NWE3,LDF.GRACCIFROT3,NAPHTHA - NWE - LDF - Grangemouth C5+ cif Rotts
+5/6/2024,652,5/1/2024 0:00,LDF.c5 plus.cargoes.cif.NWE4,LDF.GRACCIFROT4,NAPHTHA - NWE - LDF - Grangemouth C5+ cif Rotts
+5/6/2024,715,5/1/2024 0:00,SRB.cargoes.cif.ARA1,SRB.CIFARA1,Distillates - NWE - SRB - cif ARA
+5/6/2024,702,5/1/2024 0:00,SRB.cargoes.cif.ARA2,SRB.CIFARA2,Distillates - NWE - SRB - cif ARA
+5/6/2024,698,5/1/2024 0:00,SRB.cargoes.cif.ARA3,SRB.CIFARA3,Distillates - NWE - SRB - cif ARA
+5/6/2024,697,5/1/2024 0:00,SRB.cargoes.cif.ARA4,SRB.CIFARA4,Distillates - NWE - SRB - cif ARA
+5/6/2024,695,5/1/2024 0:00,SRB.cargoes.fob.Grangemouth1,SRB.FOBGRA5,Distillates - NWE - SRB - fob Grangemouth
+5/6/2024,682,5/1/2024 0:00,SRB.cargoes.fob.Grangemouth2,SRB.FOBGRA6,Distillates - NWE - SRB - fob Grangemouth
+5/6/2024,678,5/1/2024 0:00,SRB.cargoes.fob.Grangemouth3,SRB.FOBGRA7,Distillates - NWE - SRB - fob Grangemouth
+5/6/2024,677,5/1/2024 0:00,SRB.cargoes.fob.Grangemouth4,SRB.FOBGRA8,Distillates - NWE - SRB - fob Grangemouth
+5/6/2024,715,5/1/2024 0:00,SRB.cargoes.cif.NWE.ex Saltend1,SRB.SALTCIFROT1,NAPHTHA - NWE - SRB - Saltend (N+A) cif Rotts
+5/6/2024,702,5/1/2024 0:00,SRB.cargoes.cif.NWE.ex Saltend2,SRB.SALTCIFROT2,NAPHTHA - NWE - SRB - Saltend (N+A) cif Rotts
+5/6/2024,698,5/1/2024 0:00,SRB.cargoes.cif.NWE.ex Saltend3,SRB.SALTCIFROT3,NAPHTHA - NWE - SRB - Saltend (N+A) cif Rotts
+5/6/2024,697,5/1/2024 0:00,SRB.cargoes.cif.NWE.ex Saltend4,SRB.SALTCIFROT4,NAPHTHA - NWE - SRB - Saltend (N+A) cif Rotts
+5/6/2024,646,5/1/2024 0:00,LDF.cargoes.cif.MED1,LDF.CARGOES.CIF1,LDF.cargoes.cif.MED
+5/6/2024,629,5/1/2024 0:00,LDF.cargoes.cif.MED2,LDF.CARGOES.CIF2,LDF.cargoes.cif.MED
+5/6/2024,621,5/1/2024 0:00,LDF.cargoes.cif.MED3,LDF.CARGOES.CIF3,LDF.cargoes.cif.MED
+5/6/2024,618,5/1/2024 0:00,LDF.cargoes.cif.MED4,LDF.CARGOES.CIF4,LDF.cargoes.cif.MED
+5/6/2024,619,5/1/2024 0:00,LDF.cargoes.fob.MED5,LDF.CARGOES.FOB1,LDF.cargoes.fob.MED
+5/6/2024,604,5/1/2024 0:00,LDF.cargoes.fob.MED6,LDF.CARGOES.FOB2,LDF.cargoes.fob.MED
+5/6/2024,598,5/1/2024 0:00,LDF.cargoes.fob.MED7,LDF.CARGOES.FOB3,LDF.cargoes.fob.MED
+5/6/2024,599,5/1/2024 0:00,LDF.cargoes.fob.MED8,LDF.CARGOES.FOB4,LDF.cargoes.fob.MED
+5/6/2024,671,5/1/2024 0:00,LDF.Lavera High Qual 80 min.cargoes.cif.MED1,LDF.LAVHILDFCIF1,NAPHTHA - MED - LDF - Lavera High Quality (80 min) LDF cif
+5/6/2024,654,5/1/2024 0:00,LDF.Lavera High Qual 80 min.cargoes.cif.MED2,LDF.LAVHILDFCIF2,NAPHTHA - MED - LDF - Lavera High Quality (80 min) LDF cif
+5/6/2024,646,5/1/2024 0:00,LDF.Lavera High Qual 80 min.cargoes.cif.MED3,LDF.LAVHILDFCIF3,NAPHTHA - MED - LDF - Lavera High Quality (80 min) LDF cif
+5/6/2024,643,5/1/2024 0:00,LDF.Lavera High Qual 80 min.cargoes.cif.MED4,LDF.LAVHILDFCIF4,NAPHTHA - MED - LDF - Lavera High Quality (80 min) LDF cif
+5/6/2024,666,5/1/2024 0:00,LDF.Lavera Low Quallity.cargoes.cif.MED5,LDF.LAVLOLDFCIF5,NAPHTHA - MED - LDF - Lavera Low Quality (Dow spec) LDF cif
+5/6/2024,649,5/1/2024 0:00,LDF.Lavera Low Quallity.cargoes.cif.MED6,LDF.LAVLOLDFCIF6,NAPHTHA - MED - LDF - Lavera Low Quality (Dow spec) LDF cif
+5/6/2024,641,5/1/2024 0:00,LDF.Lavera Low Quallity.cargoes.cif.MED7,LDF.LAVLOLDFCIF7,NAPHTHA - MED - LDF - Lavera Low Quality (Dow spec) LDF cif
+5/6/2024,638,5/1/2024 0:00,LDF.Lavera Low Quallity.cargoes.cif.MED8,LDF.LAVLOLDFCIF8,NAPHTHA - MED - LDF - Lavera Low Quality (Dow spec) LDF cif
+5/6/2024,467,5/1/2024 0:00,HS FO.barges.fob.NWE.paper1,HSF.FOBBAR1,RESIDUALS - NWE - HSFO - fob barges
+5/6/2024,471,5/1/2024 0:00,HS FO.barges.fob.NWE.paper2,HSF.FOBBAR2,RESIDUALS - NWE - HSFO - fob barges
+5/6/2024,469,5/1/2024 0:00,HS FO.barges.fob.NWE.paper3,HSF.FOBBAR3,RESIDUALS - NWE - HSFO - fob barges
+5/6/2024,463,5/1/2024 0:00,HS FO.barges.fob.NWE.paper4,HSF.FOBBAR4,RESIDUALS - NWE - HSFO - fob barges
+5/6/2024,466,5/1/2024 0:00,HS FO.cargoes.cif.NWE1,HS.FO.CARGOES.CIF5,RESIDUALS - NWE - HSFO - Cargoes CIF
